@@ -1,14 +1,14 @@
 //
-//  CustomerIOSFrameworkTests.swift
-//  CustomerIOSFrameworkTests
+//  FrameworkTTests.swift
+//  FrameworkTTests
 //
-//  Created by Pravallika Damerla on 04/07/22.
+//  Created by Pravallika Damerla on 26/08/22.
 //
 
 import XCTest
-@testable import CustomerIOSFramework
+@testable import FrameworkT
 
-class CustomerIOSFrameworkTests: XCTestCase {
+class FrameworkTTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
